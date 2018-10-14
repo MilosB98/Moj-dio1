@@ -132,3 +132,9 @@ footer {
     text-align: center;
     color:  #fac991;
 }
+@media (max-width: 500px) {
+    footer {
+        width: 100%;
+        height: auto;
+    }
+}
